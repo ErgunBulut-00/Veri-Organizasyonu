@@ -1,1 +1,1 @@
-# Veri-Organizasyonu-devleri
+# Veri-Organizasyonu-Ödevleri
